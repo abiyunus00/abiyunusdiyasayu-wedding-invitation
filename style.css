@@ -254,3 +254,11 @@ span{
     color:var(--primary);
     margin-bottom:10px;
 }
+
+.quran{
+    max-width:700px;
+    margin:50px auto 0;
+    line-height:1.8;
+    font-style:italic;
+    color:#666;
+}
